@@ -1,8 +1,5 @@
-2025/07/10-00:33:01.876 5784 Recovering log #8
-2025/07/10-00:33:01.888 5784 Delete type=0 #8
-2025/07/10-00:33:01.888 5784 Delete type=3 #6
-2025/07/10-00:33:55.133 437c Level-0 table #13: started
-2025/07/10-00:33:55.133 437c Level-0 table #13: 0 bytes OK
-2025/07/10-00:33:55.137 437c Delete type=0 #11
-2025/07/10-00:33:55.144 437c Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
-2025/07/10-00:33:55.144 437c Manual compaction at level-1 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2025/07/10-01:26:29.359 339c Recovering log #31
+2025/07/10-01:26:29.359 339c Level-0 table #33: started
+2025/07/10-01:26:29.359 339c Level-0 table #33: 46024 bytes OK
+2025/07/10-01:26:29.369 339c Delete type=0 #31
+2025/07/10-01:26:29.369 339c Delete type=3 #30
