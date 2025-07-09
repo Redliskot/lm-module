@@ -1,0 +1,51 @@
+{
+  "id": "lm-module",
+  "title": "Living map",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13.346"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Living map",
+      "url": "https://boosty.to/livingmap",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "bestiary",
+      "label": "LM bestiary",
+      "path": "packs/bestiary",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Spell",
+      "label": "LM Spell",
+      "path": "packs/Spell",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "description": "",
+  "flags": {}
+}
