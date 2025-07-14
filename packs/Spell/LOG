@@ -1,5 +1,5 @@
-2025/07/10-01:26:29.359 339c Recovering log #31
-2025/07/10-01:26:29.359 339c Level-0 table #33: started
-2025/07/10-01:26:29.359 339c Level-0 table #33: 46024 bytes OK
-2025/07/10-01:26:29.369 339c Delete type=0 #31
-2025/07/10-01:26:29.369 339c Delete type=3 #30
+2025/07/14-22:18:37.963 7dd0 Recovering log #39
+2025/07/14-22:18:37.964 7dd0 Level-0 table #41: started
+2025/07/14-22:18:37.967 7dd0 Level-0 table #41: 6823 bytes OK
+2025/07/14-22:18:37.972 7dd0 Delete type=0 #39
+2025/07/14-22:18:37.972 7dd0 Delete type=3 #38
