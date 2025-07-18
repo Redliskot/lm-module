@@ -13,18 +13,6 @@
         "type": "system",
         "compatibility": {}
       }
-    ],
-    "requires": [
-      {
-        "id": "times-up",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dae",
-        "type": "module",
-        "compatibility": {}
-      }
     ]
   },
   "authors": [
@@ -36,9 +24,9 @@
   ],
   "packs": [
     {
-      "name": "bestiary",
+      "name": "Bestiary",
       "label": "LM bestiary",
-      "path": "packs/bestiary",
+      "path": "packs/Bestiary",
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
@@ -48,7 +36,7 @@
     },
     {
       "name": "Spell",
-      "label": "LM Spell",
+      "label": "LM spell",
       "path": "packs/Spell",
       "type": "Item",
       "system": "dnd5e",
@@ -56,6 +44,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "RollTable",
+      "label": "LM roll table",
+      "path": "packs/RollTable",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "description": "<p>Набор существ от Living Map.</p>",
