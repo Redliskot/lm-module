@@ -1,3 +1,13 @@
-2025/07/18-01:24:14.821 4adc Recovering log #6
-2025/07/18-01:24:14.821 4adc Delete type=0 #6
-2025/07/18-01:24:14.821 4adc Delete type=3 #4
+2025/07/18-02:12:31.567 262c Recovering log #8
+2025/07/18-02:12:31.572 262c Delete type=0 #8
+2025/07/18-02:12:31.572 262c Delete type=3 #7
+2025/07/18-02:30:08.976 6480 Level-0 table #12: started
+2025/07/18-02:30:08.976 6480 Level-0 table #12: 0 bytes OK
+2025/07/18-02:30:08.978 6480 Delete type=0 #10
+2025/07/18-02:30:08.983 6480 Manual compaction at level-0 from '!folders!H6GuZ74gUlcOEuC5' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 68 : 1
+2025/07/18-02:30:08.983 6480 Compacting 1@0 + 0@1 files
+2025/07/18-02:30:08.989 6480 Generated table #13@0: 69 keys, 16020 bytes
+2025/07/18-02:30:08.989 6480 Compacted 1@0 + 0@1 files => 16020 bytes
+2025/07/18-02:30:08.992 6480 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/18-02:30:08.992 6480 Delete type=2 #5
+2025/07/18-02:30:09.005 6480 Manual compaction at level-0 from '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 68 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
