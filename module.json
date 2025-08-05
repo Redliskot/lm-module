@@ -58,7 +58,7 @@
     }
   ],
   "description": "<p>Набор существ от Living Map.</p>", 
-  "manifest": "https://github.com/Redliskot/lm-module/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/Redliskot/lm-module/main/module.json",
   "download": "https://github.com/Redliskot/lm-module/releases/download/v1.1.0/module.zip",
   "url": "https://github.com/Redliskot/lm-module",
   "flags": {}
